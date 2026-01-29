@@ -1,0 +1,10 @@
+model_version: OTTERv1.0
+spin_up_yrs: 1
+DrU_initial_state: empty 
+DrL_initial_state: empty
+evapotranspiration: OpenET Ensemble Landsat v2_1 
+precipitation: 'IDAHO_EPSCOR/GRIDMET' 
+aws: 'projects/awssimsapi/assets/conus_aws'
+aws_max: 'projects/awssimsapi/assets/conus_aws_max'
+cn: 'projects/awssimsapi/assets/conus_cn'
+crop_type: 'projects/openet/assets/crop_type/v2024a'
